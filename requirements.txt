@@ -1,0 +1,7 @@
+-f https://pytorch-geometric.com/whl/torch-1.13.1+cu116.html
+torch==1.13.1+cu116
+torch-scatter
+torch-sparse
+torch-geometric
+torchvision
+scipy==1.1.0
