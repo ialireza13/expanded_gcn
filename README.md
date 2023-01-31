@@ -2,7 +2,8 @@ Expanding the Graph Convolutional Networks (PyTorch Version)
 ====
 
 Expanded Graph Convolutional Networks (GCNs) [1] for deep learning on graphs implemented in PyTorch. (PyTorch implementation)
-An expanded version of GCNs Original paper by Kipf & Welling [2] 
+
+An expanded version of GCNs original work by Kipf & Welling [2] 
 
 The repository includes the datasets for Cora, Pubmed and Citeseer citation networks.
 
@@ -10,6 +11,7 @@ The repository includes the datasets for Cora, Pubmed and Citeseer citation netw
 ## References
 
 [1] [Hashemi & Makse, Visiting Distant Neighbors in Graph Convolutional Networks, 2023](https://arxiv.org/abs/2301.10960)
+
 [2] [Kipf & Welling, Semi-Supervised Classification with Graph Convolutional Networks, 2016](https://arxiv.org/abs/1609.02907)
 
 ## Cite
